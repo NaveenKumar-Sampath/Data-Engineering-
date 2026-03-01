@@ -1,3 +1,6 @@
+
+
+
 I need content for AWS data engineer resume, for 5+ years experience, for profile heading, i need 750 characters, for the skill set of sql, python, pyspark, AWS services, redshift for reporting and snowflake for data warehouse and airflow for orchestration, for keyword optimization, ats friendly
 
 I need AWS data engineer investment banking domain project headline list (for one project)
